@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdpdate",
+        "uuid": 3435924,
+        "checksum": "fn8c2j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
